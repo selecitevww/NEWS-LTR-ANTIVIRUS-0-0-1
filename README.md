@@ -6,3 +6,5 @@
 # logout
 # 3 - Untitled333.jpg
 # sfc
+
+CPU -100% GPU-90%
