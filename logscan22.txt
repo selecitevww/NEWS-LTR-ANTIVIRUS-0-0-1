@@ -1,0 +1,474 @@
+﻿
+Loaris Trojan Remover v.3.1.15
+Report file date: 05.05.2076 10:14:35
+Last update:      --
+
+Scanning for 568050 virus strains and unwanted programs.
+
+Licensed for:     pawel97@ru-board.com
+Windows version:  Windows 10 Home x64 (version 6.3)
+Username:                 
+Computer name:    яяяяяяяяяяяя
+PC Brand:         Default string
+
+Starting the file scan:
+
+Standard Scan started
+Scanning process...
+----- x:\windows\system32\NetHost.exe ---- General Threat
+	Malware.Win64.Pack.17505!se
+	Signature verification: True
+	MD5: F922F6FA603EEE3DB5DFB1916DE57699:32768
+	FUZ: 192:S7D5cmzQNJlIYXqJxftZaafkfHwpWdkqW:aNnQT6Y8pKTfQpWdkqW
+	SUBS: Win32 Console
+	PE: x64
+	EP: 4883EC28E87B0200004883C428E90EFEFFFFCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC66660F1F840000000000483B0DB11C0000751048C1C11066F7C1FF
+	EPSEC: 0
+	EPRVA: 00001320
+	IBASE: 0000000140000000
+	SEC:
+		.text:60000020:133AB75D0EBD76E5D1FE00F28FD7BB62:4096
+		.rdata:40000040:53F344B3516A7545754550FF4B9CD665:4096
+		.data:C0000040:61629A3942EC7D4719E3E6A9898E5E12:4096
+		.pdata:40000040:E5E94BE8677E86DC19A776DEBE81A69A:4096
+		.didat:C0000040:3FC9AB2AB6ACDF16610E2704F11DAF0F:4096
+		.rsrc:40000040:E4BC1050EF71BBA84A4B4F1B36183047:4096
+		.reloc:42000040:96A3306D02F8C35723B664E0793C7C28:4096
+
+
+----- x:\windows\system32\normaliz.dll ---- General Threat
+	Malware.Win64.Pack.17505!se
+	Signature verification: True
+	MD5: FC2C4213D66D9DB924313CE7272CF907:32768
+	FUZ: 48:SKsky%2FeJlqNQ7hFwm41IZW67COct%2FWO5WwHg:RE%2F4kAiEWUmeOWw
+	SUBS: Win32 GUI
+	PE: x64
+	EP: 4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000D80000000E
+	SEC:
+		.text:60000020:3FA1A69397758B57EC56DC33303FB16C:4096
+		.rdata:40000040:0CDDEE028591CA96515AC369091DE23B:4096
+		.data:C0000040:78A016D8D05201C36D4F735DF4F1E02A:4096
+		.pdata:40000040:A2272F4102066CC9B29B2F4BB5BFE93B:4096
+		.00cfg:40000040:88ED436AD77C2162CF40F8EDC603E5C0:4096
+		.rsrc:40000040:28DFFC066FFB70B9989A58E2AABC9E80:4096
+		.reloc:42000040:740EA84AA511233A5A26C4D349D8647B:4096
+
+
+----- X:\Program Files\Common Files\microsoft shared\ink\tipresx.dll ---- General Threat
+	Malware.Win64.Pack.17505!se
+	Signature verification: True
+	MD5: 9808FA66AA24A701D9484169756DA46B:32768
+	SUBS: Win32 Console
+	PE: x64
+	EP: 4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000B80000000E
+	SEC:
+		.rdata:40000040:65CE79EAB2865349ED3DAE0C77993376:4096
+		.rsrc:40000040:B3D71C351C491AF9BF213F0B436AC915:24576
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{10B038F1-485F-4566-8ECC-727EEB2AA42B} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{152CF825-B61E-45EB-A824-C904DC4C78DF} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{19E1DDCD-BC7F-45C6-AC6C-78C872FE2B0C} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{59B9AB25-F0A1-4DE7-8065-5F8D08895409} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{E500013B-7AA8-4E93-9E16-8C52BCB48DD0} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{6B1D0933-93F4-4A98-8D29-5D3F931DBE5A} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{7270F25F-E99A-4738-B85C-030136727B89} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{2ADA2068-2528-45ED-AB11-772D4ED420BB} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D2D1B46E-9036-4644-8A0F-D6A984663428} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D466E1C7-396D-4629-A2D2-4BA4B696DF9D} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{F522CFA0-8618-4641-803B-2E1518AF7793} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D6E7E3D2-8C00-4A81-9AD4-8EA63224767B} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{DF3FD8DD-1949-4009-88C9-800440D9FC63} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{1C129883-7833-40A9-8184-5F4FB873C28F} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{44FBF478-C496-4BCD-B4CD-E3E4B8D54A56} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{B0F9C433-854B-4F71-B21C-015750394149} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D6318598-04B4-4902-AD53-222BB6232DD2} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{576158F4-AA1C-4C9F-879D-B37A31954EAC} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{0749DD92-B840-4F22-84DE-47F03661839A} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{64082234-3FB7-434E-83AD-B5F256054260} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{733C8733-8424-42F1-B18D-B0A421D260EC} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{43DA0128-2B19-4543-8083-C89151888C7C} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{EC29D5BD-02B7-4927-A9B8-56325EF5147F} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D0421A4D-4984-4C31-9CAD-A4F55697E041} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{53309456-1B54-435B-83CD-0EF5F6C14F12} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{50242D43-0C7F-428A-9DB6-829DB6DF40B5} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{291A847A-82DB-4E2D-AB4B-D44BF6FE6AA0} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{4C4842CA-C6C5-47EE-8E84-9C76D3D46580} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{4656300E-9BD8-4142-8F58-714DD181D120} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{888E08A9-9F02-488B-BE6E-9CBBA01BACF3} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{C52D8205-F5E0-4C71-A1D3-AD3494A2B88F} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{B744D24E-3CF1-4C40-9F64-A668A83A4B4B} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D103F864-D589-4787-BB31-886D2CE3C5FA} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{EC42BE40-4242-413E-A823-1F6CC227A41D} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{231901BA-FC7F-4EBB-9F8B-61FDF2886D7B} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{B22A0F9C-219D-4BEE-BAC5-8C060C44EA98} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{41BAA777-C51C-46D6-8DE9-C9374B2C8D96} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{EC36210C-036D-427D-AC35-C79F8F707A3D} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{2FC45D52-6EAE-4FD5-A2ED-1281E4DB6D33} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{4B6C8BE5-8485-46D9-A031-E86FD5852836} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{92E6729A-8CFB-49B1-809F-BFC3E0AFB0C7} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{2453821E-5AC5-4C6D-9D89-863BED8129A9} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{F6F8AC12-6EAC-4B47-9920-B1FB85835AD1} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{4D6A68CD-EA61-418D-B902-77E3C61F193C} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D0A3B5B6-4C78-43D7-BDCE-88F545949E77} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{5C6C2BCF-55E0-41F4-ADFA-1714D4CB3BBC} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{95ED68EF-77C2-4453-94A3-D28569A84769} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{1040ED5E-829C-4A87-B9B0-1F1A71E0658B} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{64AF000B-C757-4D7E-B804-44D697E5E018} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{50F61D37-8807-4B40-8AC5-DE8319FCD01B} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{2A81B8E2-0A2A-4986-9291-A699C7800717} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{FDD712FC-39F6-4977-8E70-FEC3CE8B682E} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D2F060A6-488E-4C29-98F3-93A6F0E127FE} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{142B0940-578A-44A8-A52B-A05C9EA6C5CF} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{150D4490-B04F-468C-A106-7559FBA281B7} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{CCD725DA-8ED6-4C76-9479-A3267AC4F371} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{8E49CB5F-BA9F-4169-A214-97F6BAF412A0} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{B23C89B1-A603-4266-916D-505513363A0D} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{E4AD157E-119D-4007-B3DE-5591CF144FCC} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{6C07F04F-36D5-47A8-BBFD-8B5D735F42C9} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{E6C1C7A4-7CA7-4615-AF3D-5B4A6277F3B7} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{2E0C7E6F-CBDF-41A2-85F5-BF3E1FFB65EF} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{2B40B669-672F-47E4-BB3C-2B47A0DBB80B} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{7038779C-9FC8-4A47-ABFD-67095C2728A7} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{B5702FAF-D7E1-4275-BA8D-D6A8349F66E8} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{C5802CA6-5BDC-4838-9040-F672219FF715} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{0021C8F3-1EE3-4C4D-BF9F-BB88CE2344F3} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{ACA0AEBF-8F2D-455B-A5E6-FB8097C96E2B} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{580C2079-8FBE-4C74-BD26-5024D36ED827} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{A30DB549-BC20-4291-9011-AC73F9A8E471} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{37F7D796-453B-4CA8-9094-DEE6D72D0450} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{835CA401-C26B-4935-B399-7D5D4D4D5696} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{F0B80DF8-C09E-4F8A-A749-BDFCD51CD59C} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{43A461D0-9E64-4DB6-9B29-6172FFAEBCD7} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{211B0D6D-9F9D-4C78-B203-678498E9DFF2} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{2DCA46F1-59BE-4260-807C-EECCC9DEFCBA} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{3F032A23-9582-4A7B-8AC8-25077C0648A6} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{F425A634-AD01-4BC6-837A-153C926602FE} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{D1417334-1399-4377-9995-7F0E479F07C1} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{8A26D640-1732-4A6B-952B-15771DC086CE} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{FB259BFA-107F-4F6D-AEC1-B3F2EE727613} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{C475BCEE-9046-4D92-ADF1-5EA74F7B6C25} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{F507CD6D-231F-430A-BE5A-1B09742CF8A0} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{DC16F556-6675-462D-A1DA-F10EF996F679} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{863D67B3-A2E2-4F36-A7FE-0819B9D6F111} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{964B05A8-97B2-45C5-BC94-ECB2649F6C7C} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{6B41CE08-CA50-4D7A-985B-7BCA0B6F6926} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{03EE82E3-9B3B-4BEA-9C5C-28F08B660764} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{5201E8C5-863C-42D5-AD98-2D05E2210360} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{676BE1B1-9260-4CA2-8907-A476753C6CDA} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{4E82EE79-0EC2-42B6-BA3C-7D4C31BF13D0} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{C4FD0F74-9562-4A0E-BFB4-B84A4F03C774} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{2AE53186-6755-490A-895B-261B84D4108C} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{BFA413A7-1913-43ED-869B-50AFE5F33D8A} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules|{3EFAFB92-4415-4A60-B00A-3CE14E59D71A} ---- Registry PartOfThreat
+	Malware.rHeur.Pack.17505
+
+
+----- x:\windows\system32\perceptionsimulation.proxystubs.dll ---- ActiveX Threat
+	ActiveX: [Windows Perception Simulation Proxy Stubs] Malware.Win64.Pack.17505!se
+	RegPath: HKCR\CLSID\{D8C2122B-6CE0-433C-99A1-65F03037979D}
+	Signature verification: True
+	MD5: 0A27FE068D5452FEA02A8AD6DA4D5AD2:32768
+	FUZ: 192:dFGhuBQN1zw9VI252t24NJByNNCUMHj6AYrv7pK61DYQWc%2BW1:dVgRCVIU4xJ0NN0HarvDYQWc%2BW
+	SUBS: Win32 Console
+	PE: x64
+	EP: 48895C24084889742410574883EC20498BF88BDA488BF183FA017505E8C30300004C8BC78BD3488BCE488B5C2430488B7424384883C4205FE907000000CCCCCCCC
+	EPSEC: 0
+	EPRVA: 00001480
+	IBASE: 0000000180000000
+	SEC:
+		.text:60000020:9DAE34A730B404153DB85590C3EAF952:4096
+		.rdata:40000040:02E3041DD70E9E56D10DD51C04D2D6FE:8192
+		.data:C0000040:573C2946172DA4F28E6F12215DA81FC0:4096
+		.pdata:40000040:B62E4075D9B2FCBF507F323538789342:4096
+		.rsrc:40000040:45CE0BBCC5D865A1DDA553A1119E62DC:4096
+		.reloc:42000040:FB637CD8E8491A03131ADBF7D007E58C:4096
+
+
+Scan completed
+
+Scan result:         99 detected items
+Scan completed in:   Scan completed in 2 minute(s) 11 sec.
+Files were scanned:  30362
